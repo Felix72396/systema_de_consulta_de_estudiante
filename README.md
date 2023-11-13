@@ -1,5 +1,5 @@
 # systema_de_consulta_de_estudiante
-This project was created with the purpuse of looking up a student by texting any important information about this latter.
+This project was created with the purpose of looking up a student by texting any important information about this latter.
 
 ## HOW TO INSTALL
 * First of, you need to have Visual Studio 2019 installed with C#.
